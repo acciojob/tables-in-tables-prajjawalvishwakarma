@@ -5,6 +5,6 @@ table{
 	margin: 20px auto;
 	border: 1px solid black;
 }
-td{
+td, th{
 	border: 1px solid black;
 }
